@@ -14,7 +14,7 @@ plugins {
     id 'application'
 }
 
-mainClassName="com.stewsters.SampleBotKt"
+mainClassName="com.stewsters.SampleBot"
 group 'com.stewsters'
 version '1.0-SNAPSHOT'
 
